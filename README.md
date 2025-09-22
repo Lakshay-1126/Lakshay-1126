@@ -51,7 +51,7 @@
 
 ## ⚡ Fun Fact  
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280" alt="Java Coding Animation"/>
+ <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Java Coding Animation"/>
 </p>
 
 ☕ Java Developer powered by **Coffee + Code**  
@@ -61,5 +61,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="250" alt="Coffee and Code"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f09819,100:ff512f&height=120&section=footer"/>
 </p>
