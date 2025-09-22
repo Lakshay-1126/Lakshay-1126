@@ -6,6 +6,8 @@
 ---
 
 ## 👨‍💻 About Me  
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 🎯 Passionate **Java Developer**  
 - 📚 Exploring **Core Java, OOPs, Spring Boot & DSA**  
 - 🌱 Currently improving problem-solving skills in **Java**  
@@ -35,6 +37,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lakshay-1126&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshay-1126&theme=tokyonight" height="160"/>
 </p>
+
+---
+
+## 🧠 Currently Exploring (Java Focused)
+- ☕ Advanced **Core Java Concepts** (Multithreading, Collections, Streams API)  
+- 🌱 **Spring Boot & Spring MVC** for building scalable applications  
+- 🔗 **Hibernate & JPA** for ORM and database connectivity  
+- ⚙️ **Maven & Gradle** for project management and builds  
+- 📚 **Data Structures & Algorithms in Java** for better problem-solving  
 
 ---
 
