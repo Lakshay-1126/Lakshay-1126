@@ -66,28 +66,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Row 1 -->
-  <a href="https://github.com/Lakshay-1126" target="_blank">
-    <img src="https://img.shields.io/github/contributors-anon/Lakshay-1126?style=for-the-badge&logo=github&logoColor=white&color=2b2d42&labelColor=ff512f" alt="Contributors"/>
-  </a>
-  <a href="https://github.com/Lakshay-1126?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/repo-size/Lakshay-1126?style=for-the-badge&logo=github&logoColor=white&color=2b2d42&labelColor=f09819" alt="Repo Size"/>
-  </a>
-  <a href="https://github.com/Lakshay-1126" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/Lakshay-1126?style=for-the-badge&logo=github&logoColor=white&color=2b2d42&labelColor=ff512f" alt="Commits"/>
-  </a>
-</p>
-<p align="center">
-  <!-- Row 2 -->
-  <a href="https://github.com/Lakshay-1126?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/Lakshay-1126?style=for-the-badge&logo=github&logoColor=white&color=2b2d42&labelColor=f09819" alt="Followers"/>
-  </a>
-  <a href="https://github.com/Lakshay-1126?tab=stars" target="_blank">
-    <img src="https://img.shields.io/github/stars/Lakshay-1126?style=for-the-badge&logo=github&logoColor=white&color=2b2d42&labelColor=ff512f" alt="Stars"/>
-  </a>
-  <a href="https://github.com/Lakshay-1126/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/Lakshay-1126?style=for-the-badge&logo=github&logoColor=white&color=2b2d42&labelColor=f09819" alt="Pull Requests"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshay-1126&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshay-1126&theme=tokyonight" height="160"/>
 </p>
 
 ---
