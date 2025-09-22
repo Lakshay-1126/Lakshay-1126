@@ -61,5 +61,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f09819,100:ff512f&height=120&section=footer"/>
+  <img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="250" alt="Coffee and Code"/>
 </p>
