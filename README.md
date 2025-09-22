@@ -15,8 +15,17 @@
 ---
 
 ## 🚀 Tech Stack  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,idea,spring,hibernate,git,github,mysql,html,css,js" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="100" alt="Java"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="100" alt="Spring"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" width="100" alt="Hibernate"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="100" alt="MySQL"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100" alt="Git"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="100" alt="GitHub"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="80" alt="HTML"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="80" alt="CSS"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80" alt="JavaScript"/>
 </p>
 
 ---
