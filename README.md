@@ -5,8 +5,10 @@
 
 ---
 
-## 👨‍💻 About Me  
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 👨‍💻 About Me
+<table>
+<tr>
+<td>
 
 - 🎯 Passionate **Java Developer**  
 - 📚 Exploring **Core Java, OOPs, Spring Boot & DSA**  
@@ -14,11 +16,18 @@
 - 💡 Love building projects and learning by doing  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lakshay-kumawat-4a586a335/)  
 
+</td>
+<td>
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Tech Stack  
-
+## 🚀 Tech Stack
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="100" alt="Java"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="100" alt="Spring"/>
@@ -33,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lakshay-1126&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshay-1126&theme=tokyonight" height="160"/>
@@ -50,13 +59,12 @@
 
 ---
 
-## ⚡ Fun Fact  
+## ⚡ Fun Fact
 <p align="center">
- <img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="250" alt="Coffee and Code"/>
+  <img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="250" alt="Coffee and Code"/>
 </p>
-
 ☕ Java Developer powered by **Coffee + Code**  
-🎬 Movie Buff · 📚 Continuous Learner · 🌍 Tech Explorer  
+🎬 Movie Buff · 📚 Continuous Learner · 🌍 Tech Explorer
 
 ---
 
