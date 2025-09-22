@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me  
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎯 Passionate **Java Developer**  
 - 📚 Exploring **Core Java, OOPs, Spring Boot & DSA**  
