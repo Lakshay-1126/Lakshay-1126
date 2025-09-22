@@ -53,7 +53,7 @@
 ## ⚡ Fun Fact
 
 <p align="center">
-<img src="https://i.imgur.com/7kO3FzG.gif" width="300" alt="Java Logo Animation"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Java Coding Animation"/>
 </p>
 
 ☕ Java Developer powered by Coffee + Code  
