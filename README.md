@@ -29,23 +29,65 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="100" alt="Java"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="100" alt="Spring"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" width="100" alt="Hibernate"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="100" alt="MySQL"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100" alt="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="100" alt="GitHub"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="80" alt="HTML"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="80" alt="CSS"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80" alt="JavaScript"/>
+  <!-- Row 1 -->
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  </a>
+  <a href="https://hibernate.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+</p>
+<p align="center">
+  <!-- Row 2 -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshay-1126&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshay-1126&theme=tokyonight" height="160"/>
+  <!-- Row 1 -->
+  <a href="https://github.com/Lakshay-1126" target="_blank">
+    <img src="https://img.shields.io/github/contributors-anon/Lakshay-1126?style=for-the-badge&logo=github&logoColor=white&color=2b2d42&labelColor=ff512f" alt="Contributors"/>
+  </a>
+  <a href="https://github.com/Lakshay-1126?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/repo-size/Lakshay-1126?style=for-the-badge&logo=github&logoColor=white&color=2b2d42&labelColor=f09819" alt="Repo Size"/>
+  </a>
+  <a href="https://github.com/Lakshay-1126" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/Lakshay-1126?style=for-the-badge&logo=github&logoColor=white&color=2b2d42&labelColor=ff512f" alt="Commits"/>
+  </a>
+</p>
+<p align="center">
+  <!-- Row 2 -->
+  <a href="https://github.com/Lakshay-1126?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Lakshay-1126?style=for-the-badge&logo=github&logoColor=white&color=2b2d42&labelColor=f09819" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Lakshay-1126?tab=stars" target="_blank">
+    <img src="https://img.shields.io/github/stars/Lakshay-1126?style=for-the-badge&logo=github&logoColor=white&color=2b2d42&labelColor=ff512f" alt="Stars"/>
+  </a>
+  <a href="https://github.com/Lakshay-1126/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/Lakshay-1126?style=for-the-badge&logo=github&logoColor=white&color=2b2d42&labelColor=f09819" alt="Pull Requests"/>
+  </a>
 </p>
 
 ---
