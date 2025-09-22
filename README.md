@@ -14,6 +14,7 @@
 - 💡 Love building projects and learning by doing  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lakshay-kumawat-4a586a335/)  
 
+
 ---
 
 ## 🚀 Tech Stack  
