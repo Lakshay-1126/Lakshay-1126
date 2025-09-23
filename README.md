@@ -85,7 +85,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="250" alt="Coffee and Code"/>
 </p>
-☕ Java Developer powered by **Coffee + Code**  
+☕ Java Developer powered by **Coffee + Code** 
+
 🎬 Movie Buff · 📚 Continuous Learner · 🌍 Tech Explorer
 
 ---
