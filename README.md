@@ -14,7 +14,7 @@
 - 📚 Exploring **Core Java, OOPs, Spring Boot & DSA**  
 - 🌱 Currently improving problem-solving skills in **Java**  
 - 💡 Love building projects and learning by doing  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lakshay-kumawat-4a586a335/)  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lakshay-kumawat/)  
 
 </td>
 <td>
