@@ -11,7 +11,7 @@
 <td>
 
 - 🎯 Passionate **Java Developer**  
-- 📚 Exploring **Core Java, OOPs, Spring Boot & DSA**  
+- 📚 Exploring **Core Java, OOPs, DSA**  
 - 🌱 Currently improving problem-solving skills in **Java**  
 - 💡 Love building projects and learning by doing  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lakshay-kumawat/)  
@@ -32,12 +32,6 @@
   <!-- Row 1 -->
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=ff6b6b" alt="Java"/>
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&color=51cf66" alt="Spring"/>
-  </a>
-  <a href="https://hibernate.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&color=495057" alt="Hibernate"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=339af0" alt="MySQL"/>
